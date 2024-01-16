@@ -5,6 +5,9 @@ contributor:
     agent_name: Gray, William A.
     gutenberg_agent_id: '56658'
     url: http://www.gutenberg.org/2009/agents/56658
+covers:
+- cover_type: archival
+  image_path: 72415-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrell, Henry
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53188
     wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72415#The-spirit-of-Toffee
 gutenberg_issued: '2023-12-14'
 gutenberg_type: Text
 identifiers:
